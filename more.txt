@@ -1,0 +1,10 @@
+Objectives of the course for the student
+To recognize the significance of using engineering methodologies in software design and development.
+To learn how to apply software engineering techniques and methodologies to the development task.
+How to develop and construct a software specification.
+How to develop and construct a software design.
+How to verify and validate software.
+To apply various techniques of software management.
+To work as the member of a design and development team to develop a product for a real world entity in the community.
+To establish connections between academic knowledge and civic life.
+To develop professional communication skills by working within and across communities, context, and social structures.
