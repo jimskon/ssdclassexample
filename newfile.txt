@@ -1,0 +1,1 @@
+This is a part for the git example
